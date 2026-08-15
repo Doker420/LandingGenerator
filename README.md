@@ -1,7 +1,7 @@
 # LandingGenerator
 ✅ – every page is unique and every website uses different technologies ・ Beautiful, modern design 🎨 – like a real website! ・ Multiple SEO-optimized pages with navigation 📄 ・ Custom privacy policy &amp; terms 📝 – no more legal headaches! ・ ZIP download with all files 📦 – ready to use! ・ Lightning-fast generation ⚡️ – forget about waiting for hours!
 
-# 🤖 Telegram-Бот для генерации лендингов через Arena.ai
+# 🤖 Telegram-Бот для генерации лендингов
 
 👉 **Ссылка на бота:** [Landing Generator Bot](https://t.me/Landing_generatorAiBot)
 
@@ -99,7 +99,7 @@ sudo systemctl status landing-bot
 
 ## 🔐 Функционал
 
-- **Генерация лендингов** через Arena.ai
+- **Генерация лендингов**
 - **Реферальная программа**: привилегии за приглашённых друзей + бонусы
 - **Промокоды**: активация дополнительных генераций
 - **Админ-панель**: статистика, создание промокодов, рассылка
